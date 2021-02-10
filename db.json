@@ -1,8 +1,11 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "username": "ari"
-    }
-  ]
+    "users": 
+    [
+        {
+            "email": "aridease@gmail.com",
+            "password": "ari",
+            "name": "ari",
+            "surname": "de arriba"
+        }
+    ]
 }
